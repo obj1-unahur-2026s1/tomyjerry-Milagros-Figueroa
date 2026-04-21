@@ -30,7 +30,7 @@ Nota: Acá se trabaja polimorfismo, ordenes, consulta y estado del objeto.
 
 Acá vamos a verificar mediante los test de wollok si nuestro código está correcto. Para este ejercicio vamos a escribirlos como si se tratara de una historia, y por ahora se repetirá código en cada uno de los test, más adelante veremos como evitar eso:
 
-- Al inicio, la velocidad máxima de Tom es 10 (su energía es 50)
+- "Al inicio, la velocidad máxima de Tom es 10 (su energía es 50)"
 - Si come a Jerry, la velocidad máxima pasa a ser  15.2 (su energía es 102)
 - Si corre 24 metros, entonces su velocidad máxima pasa a ser 14 (su energía es 90)
 - Si come a Nibbles, pasa a tener de velocidad máxima 18.7 (su energía es 137)
